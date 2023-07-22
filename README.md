@@ -21,7 +21,8 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Partymann2000&icon=0&color=0)](https://visitcount.itsvg.in) ![Discord](https://img.shields.io/discord/625285230823211031?style=for-the-badge&logo=discord&label=Discord&labelColor=white&color=blue)
+[![](https://visitcount.itsvg.in/api?id=Partymann2000&icon=0&color=0)](https://visitcount.itsvg.in) [![Discord](https://img.shields.io/discord/625285230823211031?style=for-the-badge&logo=discord&label=Discord&labelColor=grey&color=blue)](https://discord.gg/rvJeT9sm82)
+
 
 
   ## 💰 Unterstütze mich doch gerne 😊
