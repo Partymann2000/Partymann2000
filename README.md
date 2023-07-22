@@ -21,7 +21,8 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Partymann2000&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Partymann2000&icon=0&color=0)](https://visitcount.itsvg.in) ![Discord](https://img.shields.io/discord/625285230823211031?style=for-the-badge&logo=discord&label=Discord&labelColor=white&color=blue)
+
 
   ## 💰 Unterstütze mich doch gerne 😊
  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/partymann2000) or [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J4NFG7S)
